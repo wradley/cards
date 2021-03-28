@@ -29,3 +29,15 @@ while x < 5:
 x = ['another', 'fun', 'array']
 while len(x) > 0:
     print(x.pop())
+
+
+print('\n--- Now you try ---\n')
+
+
+# Write a loop to calculate x to the power of y and print it out
+x = 3
+y = 4
+
+
+# Write a loop to calculate the average of the values in x
+x = [2, 5, 99, 101, 42, 8]

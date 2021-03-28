@@ -20,3 +20,8 @@ print(x[3])
 
 # And I can always get the length of x
 print(len(x))
+
+
+print('\n--- Now you try ---\n')
+
+# Make a 3 by 3 matrix using lists (lists in lists)
